@@ -1,5 +1,5 @@
 
-# SPDX-FileCopyrightText: 2024 Arthur A. Gleckler
+# SPDX-FileCopyrightText: 2025 Arthur A. Gleckler
 # SPDX-License-Identifier: MIT
 * SRFI 109: Extended string quasi-literals
 
@@ -7,7 +7,7 @@
 
 
 
-keywords: [[https://srfi.schemers.org/?keywords=reader-syntax][Reader Syntax]]
+keywords: [[https://srfi.schemers.org/?keywords=reader-syntax][Reader Syntax]], [[https://srfi.schemers.org/?keywords=text][Text]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-109/][SRFI 109]]: Extended string quasi-literals, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
